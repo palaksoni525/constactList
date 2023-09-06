@@ -1,0 +1,38 @@
+ 
+ #page-heading{
+    margin-top:25px;
+    text-align:center;
+    color:grey;
+    font-family: sans-serif;
+ }
+ #Add-btn
+ {  background-color:rgb(135, 130, 130);
+
+ }
+ #list-item
+ {  background-color:rgb(67, 67, 255) ;
+    height:40px;
+     
+ }
+ #list-item:hover
+ {  background-color:grey;
+   
+     
+ }
+ #div1
+ {  
+    width:80vw;
+    height:35px;
+
+ }
+ #div1:hover{
+   background-color:grey;
+ }
+ #number
+ {  margin-top:-33px;
+    margin-left:65vw;
+ }
+ #form
+ {
+    text-align:center;
+ }
